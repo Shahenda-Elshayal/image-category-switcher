@@ -3,7 +3,7 @@
 A simple, interactive image gallery that allows users to switch between different categories of images.
 
 ## Live Demo
-[View Live Demo]()
+[View Live Demo](https://shahenda-elshayal.github.io/image-category-switcher/)
 
 ## Features
 
